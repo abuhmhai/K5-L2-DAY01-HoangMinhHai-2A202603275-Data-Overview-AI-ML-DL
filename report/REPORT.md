@@ -157,5 +157,5 @@ Kiểm tra trên GitHub trong thư mục `report/`:
 - [x] `day1_lab_outputs/visuals/detection_predictions.png`
 - [x] `day1_lab_outputs/visuals/segmentation_prediction.png`
 - [x] Ô validation cuối notebook báo `PASS`
-- [ ] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
-- [ ] Đã nộp **link repository** trên LMS
+- [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
+- [x] Đã nộp **link repository** trên LMS
